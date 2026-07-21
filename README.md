@@ -1,6 +1,6 @@
 ### Adrian Lungu
 
-Ohayo!
+😁 Ohayo! 👋 
 
 Go engineer building developer infrastructure — mostly around AI agents these days,
 terminal UIs, and the plumbing that makes both less painful.
